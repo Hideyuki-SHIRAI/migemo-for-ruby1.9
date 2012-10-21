@@ -1,0 +1,17 @@
+/.cvsignore/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/Makefile.am/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/cache.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/charclass.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/convert.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/emacs-type.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/insertion.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/migemo.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/regex-dict.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/regex.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/ruby-syntax.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/sample.rb/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/symbols.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/test-dict/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/test.txt/1.1.1.1/Wed Jun  9 09:50:54 2004//
+/user-dict.sh/1.1.1.1/Wed Jun  9 09:50:54 2004//
+D

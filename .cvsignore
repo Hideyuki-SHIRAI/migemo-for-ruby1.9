@@ -1,0 +1,17 @@
+Makefile
+install-sh
+COPYING
+INSTALL
+Makefile.in
+aclocal.m4
+config.cache
+config.h.in
+config.log
+config.status
+configure
+elisp-comp
+frequent-chars
+SKK-JISYO.L
+missing
+mkinstalldirs
+migemo.el
